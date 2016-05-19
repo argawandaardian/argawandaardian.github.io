@@ -18,6 +18,10 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
+ - title: SIF
+   url: //sif.uin-suska.ac.id/
+ - title: UIN
+   url: //uin-suska.ac.id/
 
 social:
    github: argawandaardian
