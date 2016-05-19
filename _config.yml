@@ -1,7 +1,7 @@
 title: ARGAWANDA ARDIAN
 description: Mahasiswa Sistem Informasi
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://argawandaardian.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
